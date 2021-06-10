@@ -1,0 +1,83 @@
+body,html {
+    color: white;
+    margin:0;
+    background-color: #171b21;
+    font-family: 'Arima Madurai', cursive;
+	font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+#override-boot {
+  width: 0%;  
+
+}
+
+.pick-em {
+	text-align: left;
+}
+
+.card {
+
+	border: 1px solid black; 
+	width: 100%;
+}
+
+.fa {
+	color: #15a8ea;
+}
+
+
+i {
+  cursor: pointer;
+}
+
+.card, .list-group-item {
+  
+
+    background-color: rgba(85, 130, 139, .1);    
+}
+
+.dropdown-menu {
+	 background-color: rgba(55, 100, 108, 1);   
+}
+
+.dropdown-item {
+	color: white;
+}
+
+.dropdown-item:hover {
+	color: #87BBA2;
+	background-color: rgba(0, 0, 0, .4);  
+	
+}
+
+.nav-link:hover {
+	color: #87BBA2!important;
+}
+
+
+.page-link {
+	border: none;
+	background-color: #171b21;
+	color: white!important;
+}
+.page-link:hover {
+	color: #3B6064!important;
+	background-color: #171b21;
+}
+
+.page-link:focus {
+	color: white;
+	background-color: #171b21;
+}
+
+.wrapper {
+
+	background-color: rgba(85, 130, 139, .2);   
+	
+    
+	
+}
+
